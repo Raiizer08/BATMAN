@@ -5,7 +5,7 @@
 
 #
 ## <b>DDOS Attack Script :</b>
-<h3> <b>👽👾<i>KARMA</i></b> - most powerful ddos script based on python <br>
+<h3> <b>👽👾<i>BATMAN</i></b> - most powerful ddos script based on python <br>
 <strong> ✒️ Author :  Raiizer </strong></h3>
 
 #
