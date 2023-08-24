@@ -6,7 +6,7 @@
 #
 ## <b>DDOS Attack Script :</b>
 <h3> <b>👽👾<i>KARMA</i></b> - most powerful ddos script based on python <br>
-<strong> ✒️ Author :  Sumalya Chatterjee </strong></h3>
+<strong> ✒️ Author :  Raiizer </strong></h3>
 
 #
 ## <b>Git Installation :</b>
