@@ -5,7 +5,7 @@
 
 #
 ## <b>DDOS Attack Script :</b>
-<h3> <b>👽👾<i>Hulk</i></b> - most powerful ddos script based on python <br>
+<h3> <b>👽👾<i>KARMA</i></b> - most powerful ddos script based on python <br>
 <strong> ✒️ Author :  Sumalya Chatterjee </strong></h3>
 
 #
